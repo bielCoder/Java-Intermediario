@@ -19,6 +19,7 @@ public class Aula01TiposPrimitivos {
         byte birthday = 'M';
         char caractere = '\u0041';
         boolean working = true;
+        String name = "Maratin"; // String type
 
         System.out.println("A idade é " + age + " anos");
         System.out.println("char: " + caractere);
